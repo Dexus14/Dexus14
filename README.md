@@ -15,10 +15,9 @@
 
 - ⚡ Fun fact: My handwriting is terrible
 
-<br/>
+<br />
 
-
-<img src="https://i.ibb.co/m5n79HV/bout-me.png" alt="bout-me" border="0" style="width: 250px;">
+<img src="https://i.ibb.co/m5n79HV/bout-me.png" alt="bout-me" border="0" style="width: 250px; margin-top: 30px;">
 
 - 🥊 Krav Maga and  🔫Airsoft are my favourite sports
 
@@ -26,9 +25,13 @@
 
 - 🎵 I'm currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thedarek15&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br />
 
-<img src="https://i.ibb.co/dJYsxs8/skillz.png" alt="skillz" border="0" style="width: 300px;">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=thedarek15&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" style="background-color: white; border-radius: 5px; margin-left: 20px;" />
+
+<br />
+
+<img src="https://i.ibb.co/dJYsxs8/skillz.png" alt="skillz" border="0" style="width: 300px; margin-top: 30px; margin-top: 30px;">
 
 <table><tr><td valign="top" width="33%">
 
@@ -75,17 +78,17 @@
 
 
 
-<img src="https://i.ibb.co/w49bQJ7/projekts.png" alt="projekts" border="0" style="width: 500px;">
+<img src="https://i.ibb.co/w49bQJ7/projekts.png" alt="projekts" border="0" style="width: 500px; margin-top: 30px;">
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=dexus14&width=600&links=false" style="max-width: 90%; width: 600px; margin-left: 20px;" />
-
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=dexus14&width=600&links=false" style="max-width: 90%; width: 600px; margin-left: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
 
 
 
 
+<br />
 
-<img src="https://i.ibb.co/VMFbQJb/charts.png" alt="charts" border="0" style="width: 500px;">
+
+<img src="https://i.ibb.co/VMFbQJb/charts.png" alt="charts" border="0" style="width: 500px;  margin-top: 30px;">
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dexus14&skills=typescript,javascript,html,css,php" style="max-width: 90%; width: 600px; margin-left: 20px;" />
 
@@ -96,11 +99,11 @@
 </a>
 
 
----
+<br />
 
 
 
-<img src="https://i.ibb.co/KzGhMsq/alsome.png" alt="alsome" border="0" style="width: 350px;">
+<img src="https://i.ibb.co/KzGhMsq/alsome.png" alt="alsome" border="0" style="width: 350px;  margin-top: 30px;">
 <div style="margin-left: 20px;">
 <a href="https://github.com/dexus14" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
