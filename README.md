@@ -27,8 +27,7 @@
 
 <br />
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=thedarek15&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" style="background-color: white; border-radius: 5px; margin-left: 20px;" />
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thedarek15&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 <br />
 
 <img src="https://i.ibb.co/dJYsxs8/skillz.png" alt="skillz" border="0" style="width: 300px; margin-top: 30px; margin-top: 30px;">
@@ -80,7 +79,7 @@
 
 <img src="https://i.ibb.co/w49bQJ7/projekts.png" alt="projekts" border="0" style="width: 500px; margin-top: 30px;">
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=dexus14&width=600&links=false" style="max-width: 90%; width: 600px; margin-left: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=dexus14&width=600&links=false&style=--item-bg-color:%23fff;--item-border-radius:10px;--item-padding:10px" style="max-width: 90%; width: 600px; margin-left: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
 
 
 
