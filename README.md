@@ -89,6 +89,9 @@
 
 <img src="https://i.ibb.co/VMFbQJb/charts.png" alt="charts" border="0" style="width: 500px;  margin-top: 30px;">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dexus14&skills=typescript,javascript,html,css,php" style="max-width: 90%; width: 600px; margin-left: 20px;" />
 
 <a href="https://profile.codersrank.io/user/dexus14" target="_blank" style="margin-left: 20px;">
