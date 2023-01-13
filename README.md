@@ -7,7 +7,7 @@
 ### <div align="center">I'm Adam Lisoń - an aspiring web developer with love for backend
 
 
-- 🔭 I’m currently working on [Party pilot](https://github.com/Dexus14/party-pilot)
+- 🔭 I’m currently working on [Party pilot](https://github.com/Dexus14/party-pilot) and [steam-profile-showcase](https://github.com/Dexus14/steam-profile-showcase)
 
 
 - 🌱 I’m currently learning unit testing with Jest.js
