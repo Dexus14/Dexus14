@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.ibb.co/DG6xQ5w/hi.png" alt="hi" border="0">
+<img src="https://iili.io/Hazhcyg.md.png" alt="hi" border="0">
 </div>
 
 
@@ -17,7 +17,7 @@
 
 <br />
 
-<img src="https://i.ibb.co/m5n79HV/bout-me.png" alt="bout-me" border="0" style="width: 250px; margin-top: 30px;">
+<img src="https://iili.io/Hazh0ua.md.png" alt="about-me" border="0" style="width: 250px; margin-top: 30px;">
 
 - 🥊 Krav Maga and  🔫Airsoft are my favourite sports
 
@@ -30,7 +30,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thedarek15&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 <br />
 
-<img src="https://i.ibb.co/dJYsxs8/skillz.png" alt="skillz" border="0" style="width: 300px; margin-top: 30px; margin-top: 30px;">
+<img src="https://iili.io/HazhEZv.md.png" alt="skills" border="0" style="width: 300px; margin-top: 30px; margin-top: 30px;">
 
 <table><tr><td valign="top" width="33%">
 
@@ -77,7 +77,7 @@
 
 
 
-<img src="https://i.ibb.co/w49bQJ7/projekts.png" alt="projekts" border="0" style="width: 500px; margin-top: 30px;">
+<img src="https://iili.io/Hazh1wJ.md.png" alt="projects" border="0" style="width: 500px; margin-top: 30px;">
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=dexus14&width=600&links=false&style=--item-bg-color:%23fff;--item-border-radius:10px;--item-padding:10px" style="max-width: 90%; width: 600px; margin-left: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
 
@@ -87,7 +87,7 @@
 <br />
 
 
-<img src="https://i.ibb.co/VMFbQJb/charts.png" alt="charts" border="0" style="width: 500px;  margin-top: 30px;">
+<img src="https://iili.io/Hazha8F.md.png" alt="charts" border="0" style="width: 500px;  margin-top: 30px;">
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
@@ -163,7 +163,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-<img src="https://i.ibb.co/KzGhMsq/alsome.png" alt="alsome" border="0" style="width: 350px;  margin-top: 30px;">
+<img src="https://iili.io/HazhYa1.md.png" alt="also-me" border="0" style="width: 350px;  margin-top: 30px;">
 <div style="margin-left: 20px;">
 <a href="https://github.com/dexus14" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
