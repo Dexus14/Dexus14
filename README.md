@@ -90,7 +90,7 @@
 <img src="https://iili.io/Hazha8F.md.png" alt="charts" border="0" style="width: 500px;  margin-top: 30px;">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -142,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2023 18:34:41 UTC
+ Last Updated on 06/02/2023 18:38:02 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dexus14&skills=typescript,javascript,html,css,php" style="max-width: 90%; width: 600px; margin-left: 20px;" />
