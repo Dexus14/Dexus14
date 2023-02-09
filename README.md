@@ -119,13 +119,16 @@ Sunday           5 commits       ░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      7 mins              ████████████████████████░   99.18 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Twig                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -142,7 +145,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 18:38:35 UTC
+ Last Updated on 09/02/2023 18:39:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dexus14&skills=typescript,javascript,html,css,php" style="max-width: 90%; width: 600px; margin-left: 20px;" />
